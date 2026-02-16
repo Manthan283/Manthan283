@@ -64,21 +64,20 @@ I optimize for scale, resilience, and user experience; not just code.
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
-<!--
+
+
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manthan283&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
+<div align="center">
+
+<img height="165" src="https://github-readme-stats-red-theta-53.vercel.app/api/top-langs/?username=Manthan283&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Manthan283&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manthan283&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
--->
 
 ---
 
