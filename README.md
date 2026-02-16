@@ -1,7 +1,8 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Manthan;Backend-Heavy+Full-Stack+Engineer;Distributed+Systems+Architect;Cloud-Native+Builder;Applied+AI+Engineer;I+Ship+Production+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=900&background=00000000&lines=Hi+I'm+Manthan;Distributed+Systems+Engineer;Backend+%2B+Frontend+Architect;Cloud-Native+Builder;Frontend+Performance+Focused;Applied+AI+in+Production;I+Build+Systems+That+Scale" />
 </p>
+
 
 <h3 align="center">⚙️ Distributed Systems • 🚀 Modern Frontend • ☁️ Cloud • 🧠 Applied AI</h3>
 
@@ -63,7 +64,7 @@ I optimize for scale, resilience, and user experience; not just code.
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
-
+<!--
 ## 📊 GitHub Activity
 
 <p align="center">
@@ -77,7 +78,7 @@ I optimize for scale, resilience, and user experience; not just code.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manthan283&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
+-->
 
 ---
 
