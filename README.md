@@ -16,15 +16,6 @@ Backend-focused Full-Stack Engineer building distributed systems and AI-enabled 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manthan283&layout=compact&theme=tokyonight&hide_border=true)
 
-## 📈 Contribution Activity
-
-<div align="center">
-  
-![](https://github-readme-activity-graph.vercel.app/graph?username=Manthan283&theme=tokyo-night&hide_border=true)
-  
-</div>
-
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -32,4 +23,4 @@ Backend-focused Full-Stack Engineer building distributed systems and AI-enabled 
 ---
 [![](https://visitcount.itsvg.in/api?id=Manthan283&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
