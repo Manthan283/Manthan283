@@ -13,9 +13,9 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Generate Main Stats Card
+      - name: Generate Streak Stats Card
         run: |
-          curl -o github-stats.svg "https://github-readme-stats-red-theta-53.vercel.app/api?username=Manthan283&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
+          curl -o streak-stats.svg "https://github-readme-stats-red-theta-53.vercel.app/api/streak?username=Manthan283&theme=tokyonight&hide_border=true"
 
       - name: Generate Top Languages Card
         run: |
