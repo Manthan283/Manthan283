@@ -13,13 +13,13 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Generate Stats SVG
+      - name: Generate Main Stats Card
         run: |
-          curl -o github-stats.svg "https://github-readme-stats-red-theta-53.vercel.app/api?username=Manthan283&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
+          curl -o github-stats.svg "https://github-readme-stats-red-theta-53.vercel.app/api?username=Manthan283&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
 
-      - name: Generate Top Languages SVG
+      - name: Generate Top Languages Card
         run: |
-          curl -o top-langs.svg "https://github-readme-stats-red-theta-53.vercel.app/api/top-langs/?username=Manthan283&layout=compact&theme=tokyonight&count_private=true"
+          curl -o top-langs.svg "https://github-readme-stats-red-theta-53.vercel.app/api/top-langs/?username=Manthan283&layout=compact&theme=tokyonight&count_private=true&hide_border=true"
 
       - name: Commit and Push
         run: |
