@@ -68,15 +68,14 @@ I optimize for scale, resilience, and user experience; not just code.
 
 ## 📊 GitHub Activity
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats-red-theta-53.vercel.app/api/top-langs/?username=Manthan283&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+<p align="center">
+  <img height="165" src="https://raw.githubusercontent.com/Manthan283/Manthan283/main/top-langs.svg" />
+</p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Manthan283&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/Manthan283/Manthan283/main/github-stats.svg" />
 </p>
+
 
 
 ---
