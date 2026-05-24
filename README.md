@@ -12,7 +12,7 @@
 
 I design and ship **production-grade distributed systems** and build **end-to-end products** from scalable backends to fast, intentional frontends.
 
-Over 2.5+ years, I’ve worked on:
+Over 3+ years, I’ve worked on:
 
 - Event-driven microservices & async architectures  
 - High-throughput APIs serving real users  
